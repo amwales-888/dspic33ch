@@ -260,7 +260,7 @@
 <text x="8.302" y="20.923" size="1.27" layer="25" rot="R180">PGD</text>
 <text x="8.302" y="18.383" size="1.27" layer="25" rot="R180">PGC</text>
 <text x="48" y="17" size="1.27" layer="25">dsPIC33CH512MP208
-v1.0 REVA 2024</text>
+v1.0 REVC 2024</text>
 <text x="70.405" y="58.642" size="1.27" layer="25" rot="R90">B1</text>
 <text x="72.945" y="58.642" size="1.27" layer="25" rot="R90">B2</text>
 </plain>
