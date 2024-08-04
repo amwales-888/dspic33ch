@@ -1,7 +1,7 @@
 {
     "Header": {
         "Comment": "All values are metric (mm)",
-        "CreationDate": "2024-07-27T18:40:43Z",
+        "CreationDate": "2024-08-04T19:21:15Z",
         "GenerationSoftware": {
             "Application": "EAGLE",
             "Vendor": "Autodesk",
@@ -13,7 +13,7 @@
         "BoardThickness": 1.67,
         "LayerNumber": 2,
         "Name": {
-            "ProjectId": "dspic33ch-revb"
+            "ProjectId": "dspic33ch-revc"
         },
         "Owner": "  <>",
         "Size": {
