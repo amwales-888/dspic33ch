@@ -10,5 +10,5 @@ Simple development board for 3.3v 80pin TQFP dspic33ch.
 - 2 Buttons optionally connected to pins A2-A3 using jumpers.
 
 
-![Board Top](Hardware/dspic33ch/images/dspic33ch-revb-Top.png)
-![Board Bottom](Hardware/dspic33ch/images/dspic33ch-revb-Bot.png)
+![Board Top](Hardware/dspic33ch/images/dspic33ch-revc-Top.png)
+![Board Bottom](Hardware/dspic33ch/images/dspic33ch-revc-Bot.png)
